@@ -8,20 +8,6 @@
     <img src=".github/images/keyfactor-signserver-enterprise.png?raw=true)" alt="SignServer logo" title="SignServer" height="70" />
 </a>
 
-<!---
-ONLY for SignServer Tools, update the following: 
-1. In this file, [README.md](README.md), update to the SignServer logo above. Also update the text and link under **Commercial Support** according to the instructions. 
-2. Open CONTRIBUTING.md for editing and replace the link, according to the instructions in the file.
-3. Open SECURITY.md for editing and replace the link, according to the instructions in the file.
-4. Open the file /.github/ISSUE_TEMPLATE/config.yml for editing and change the _**url**_ to _"https://github.com/Keyfactor/signserver-ce/discussions"_.
-
-For BOTH EJBCA and SignServer Tools, update the following: 
-1. If this tool is NOT licensed under LGPL, edit the file LICENSE.md to include the relevant license instead.
-2. Remove any Topics (labels) that are not relevant, e.g. ejbca or signserver and community or enterprise. To update, click on the cog wheel icon to the right of "About". Add or remove labels in the "Topics" field.  
-3. In this file, README.md, update the title and write a short introduction. Include any relevant badges. In the following sections, enter relevant information and links. 
-4. When all updates are ready, remove the instruction text.
---->
-
 # Go Client SDK for Keyfactor SignServer
 
 The Go Client SDK for Keyfactor SignServer enables management of SignServer resources utilizing the Go programming language.
