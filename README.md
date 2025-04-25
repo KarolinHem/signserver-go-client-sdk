@@ -1,13 +1,3 @@
-<!-- SignServer Community logo -->
-<a href="https://signserver.org">
-    <img src=".github/images/community-signserver.png?raw=true)" alt="SignServer logo" title="SignServer" height="70" />
-</a>
-
-<!-- SignServer Enterprise logo -->
-<a href="https://www.keyfactor.com/products/signserver-enterprise/">
-    <img src=".github/images/keyfactor-signserver-enterprise.png?raw=true)" alt="SignServer logo" title="SignServer" height="70" />
-</a>
-
 # Go Client SDK for Keyfactor SignServer
 
 The Go Client SDK for Keyfactor SignServer enables management of SignServer resources utilizing the Go programming language.
